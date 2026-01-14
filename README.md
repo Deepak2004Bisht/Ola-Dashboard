@@ -182,13 +182,13 @@ Minor improvements can push ratings higher
 
 📅 Trend Analysis: Enables demand forecasting using booking trends
 
-🖼 Dashboard Screenshots
-Overall Performance
-
-Vehicle Type Analysis
-
-Revenue Analysis
-
-Cancellation Analysis
-
-Ratings Analysis
+<h2>🖼 Dashboard Screenshots</h2>
+Overall Performance :- https://github.com/Deepak2004Bisht/Ola-Dashboard/blob/main/overall.png
+<br>
+Vehicle Type Analysis :- https://github.com/Deepak2004Bisht/Ola-Dashboard/blob/main/Vehicle%20Type%20Analysis.png
+<br>
+Revenue Analysis :- https://github.com/Deepak2004Bisht/Ola-Dashboard/blob/main/Revenue%20Analysis.png
+<br>
+Cancellation Analysis :- https://github.com/Deepak2004Bisht/Ola-Dashboard/blob/main/Cancellation%20Analysis.png
+<br>
+Ratings Analysis :- https://github.com/Deepak2004Bisht/Ola-Dashboard/blob/main/Ratings%20Analysis.png
