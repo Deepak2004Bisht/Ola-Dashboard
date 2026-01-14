@@ -1,7 +1,7 @@
-🚖 OLA Ride Analytics Dashboard (Power BI)
-
+<h1>🚖 OLA Ride Analytics Dashboard (Power BI)</h1>
+<br>
 An interactive Power BI dashboard designed to analyze OLA ride-hailing data, providing insights into bookings, revenue, vehicle performance, cancellations, and ratings to support data-driven business decisions.
-
+<br>
 📌 Project Overview / Purpose
 
 The OLA Ride Analytics Dashboard is a comprehensive Power BI report built to monitor and analyze ride booking behavior across multiple dimensions such as vehicle type, payment method, cancellations, revenue trends, and customer/driver ratings.
