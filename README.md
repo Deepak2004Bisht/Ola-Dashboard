@@ -183,12 +183,12 @@ Minor improvements can push ratings higher
 📅 Trend Analysis: Enables demand forecasting using booking trends
 
 <h2>🖼 Dashboard Screenshots</h2>
-Overall Performance :- https://github.com/Deepak2004Bisht/Ola-Dashboard/blob/main/overall.png
+<h4>Overall Performance :- </h4> <img src="https://github.com/Deepak2004Bisht/Ola-Dashboard/blob/main/overall.png" />
 <br>
-Vehicle Type Analysis :- https://github.com/Deepak2004Bisht/Ola-Dashboard/blob/main/Vehicle%20Type%20Analysis.png
+<h4>Vehicle Type Analysis :- </h4> <img src="https://github.com/Deepak2004Bisht/Ola-Dashboard/blob/main/Vehicle%20Type%20Analysis.png" />
 <br>
-Revenue Analysis :- https://github.com/Deepak2004Bisht/Ola-Dashboard/blob/main/Revenue%20Analysis.png
+<h4>Revenue Analysis :-</h4> <img src="https://github.com/Deepak2004Bisht/Ola-Dashboard/blob/main/Revenue%20Analysis.png"/>
 <br>
-Cancellation Analysis :- https://github.com/Deepak2004Bisht/Ola-Dashboard/blob/main/Cancellation%20Analysis.png
+<h4>Cancellation Analysis :-</h4> <img src="https://github.com/Deepak2004Bisht/Ola-Dashboard/blob/main/Cancellation%20Analysis.png"/>
 <br>
-Ratings Analysis :- https://github.com/Deepak2004Bisht/Ola-Dashboard/blob/main/Ratings%20Analysis.png
+<h4>Ratings Analysis :-</h4> <img src="https://github.com/Deepak2004Bisht/Ola-Dashboard/blob/main/Ratings%20Analysis.png"/>
